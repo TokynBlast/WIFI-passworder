@@ -8,7 +8,7 @@ This is liscenced under the TBlast 0.0.0.1 liscense (below)
 
 ## v0.0.0.1
 
-**Bspace License** by [Tokyn Blast](https://tokynblast.w3spaces.com/) is licensed under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+[Bspace](https://tokynblast.w3spaces.com/tblast-liscence.html) Liscence © 2023 by [Tokyn Blast](https://tokynblast.w3spaces.com/) is licensed under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
 **Terms of Use:**
 
